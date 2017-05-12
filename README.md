@@ -1,6 +1,6 @@
 # 7SwiftyWords
 
-An simple word guessing game app 
+A simple word guessing game app 
 
 ### Screenshots of the 7 Swifty Words App
 
